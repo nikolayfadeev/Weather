@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  height: 100vh;
+  background-color: #5e5e5e;
 }
 
 .App-logo {
@@ -36,3 +38,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+}
+
+h1,h2,h3,h4 {
+  font-weight: 300;
+}
+
